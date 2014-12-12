@@ -1,0 +1,6 @@
+[submodule "slides/fp_intro_with_scala"]
+	path = slides/fp_intro_with_scala
+	url = https://github.com/2heoh/fp_intro_with_scala.git
+[submodule "slides/unit_testing"]
+	path = slides/unit_testing
+	url = https://github.com/2heoh/UnitTesting.git
